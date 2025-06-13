@@ -1,65 +1,74 @@
-<h1 align="center">👋 ¡Hola! Soy Elvyn Edinson Paucar Ponce</h1>
-<h3 align="center">Backend Developer Jr. | Estudiante de Computación e Informática en Cibertec</h3>
+<h1 align="center">Hey, soy Elvyn Paucar 👋</h1>
+<h3 align="center">Desarrollador Backend Jr. • Estudiante en Cibertec • Apasionado por la Tecnología</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM1c2V2a2x6N2xpdTVrZ21kb3NndzZheGRuZHZzOWMxYjJoNHR4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VgDPI9XKQ4cEzzB7dT/giphy.gif" width="280"/>
 </p>
 
 ---
 
-### 🚀 Sobre mí
-Soy un estudiante apasionado por el desarrollo backend, en constante aprendizaje para convertirme en un profesional altamente competitivo en el mundo tech. Me especializo en lenguajes como Java y Kotlin, y actualmente estoy profundizando en frameworks como Spring Boot.  
+### 🧠 Sobre mí
+
+Soy **Elvyn**, estudiante de Computación e Informática en **Cibertec** (5to ciclo), con enfoque en **desarrollo backend** y aspiraciones claras: quiero convertirme en un programador profesional de alto nivel, capaz de trabajar en empresas como **Google**.
+
+Actualmente me estoy formando de manera constante con proyectos personales, cursos en línea y práctica diaria en lenguajes como **Java** y **Kotlin**, usando **Spring Boot**, **bases de datos relacionales**, y patrones de arquitectura modernos.
+
+> 🎯 Estoy comprometido con la excelencia, la mejora continua y el crecimiento profesional en el mundo tech.
 
 ---
 
-### 🛠️ Tecnologías que estoy usando
+### 🚀 Tecnologías & Herramientas
+
+#### Lenguajes:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+#### Frameworks & DB:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+#### Herramientas:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 📌 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| **Gestión de Tareas** | CRUD Web App con Spring Boot y MySQL. Arquitectura MVC. | Java, Spring Boot, Thymeleaf, MySQL |
+| **Senva (Citas Médicas)** | App para gestión de citas médicas, enfocada en backend. | Kotlin (Android), Firebase |
+| **Calculadora de IMC** *(Móvil)* | Proyecto simple en Kotlin como introducción a Android Studio. | Kotlin, Android SDK |
+
+---
+
+### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elvynpp&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvynpp&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-### 📫 Conecta conmigo
+### 🤝 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:elvyn.paucar.ponce@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/elvyn-paucar-ponce-71bbb9300/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/elvynpp/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/elvyn_paucar_po1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
+  <a href="mailto:elvyn.paucar.ponce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/elvyn-paucar-ponce-71bbb9300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/elvynpp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/elvyn_paucar_po1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📌 Estado actual
-- 🎓 Estudiante en Cibertec - 5to ciclo
-- 🌐 Aprendiendo arquitectura de software y patrones de diseño
-- ⚙️ Explorando nuevas herramientas para mejorar mis proyectos backend
+### 💬 Frase que me define
 
----
-
-### ⚡ Curiosidad geek:
-> "El cerebro humano 🧠 consume la misma cantidad de energía mientras sueña que cuando está despierto. Dormir... también es productividad." 😴💡
+> *“No importa de dónde vengas, lo importante es hacia dónde quieres llegar. Yo quiero llegar lejos, y trabajo cada día para lograrlo.”*
 
 ---
 
