@@ -36,7 +36,6 @@ También he explorado el desarrollo web con **HTML, CSS y JavaScript** para tene
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
 #### ⚙️ Herramientas
@@ -44,7 +43,6 @@ También he explorado el desarrollo web con **HTML, CSS y JavaScript** para tene
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -63,7 +61,6 @@ También he explorado el desarrollo web con **HTML, CSS y JavaScript** para tene
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nero105&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nero105&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
 </p>
 
 ---
