@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Backend Jr. • Estudiante en Cibertec • Apasionado por la Tecnología</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElvynPaucar/assets/main/code.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Nero105/assets/main/code.gif" width="300"/>
 </p>
 
 ---
@@ -49,8 +49,8 @@ Actualmente me estoy formando de manera constante con proyectos personales, curs
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElvynPaucar&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvynPaucar&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nero105&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nero105&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
 </p>
 
 
