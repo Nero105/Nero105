@@ -69,7 +69,6 @@ También he explorado el desarrollo web con **HTML, CSS y JavaScript** para tene
 <p align="center">
   <a href="mailto:elvyn.paucar.ponce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/elvyn-paucar-ponce-71bbb9300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/elvynpp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/elvyn_paucar_po1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
 </p>
 
