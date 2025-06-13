@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Backend Jr. • Estudiante en Cibertec • Apasionado por la Tecnología</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Nero105/assets/code.gif" width="300" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
 ---
