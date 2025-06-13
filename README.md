@@ -1,46 +1,53 @@
-<h1 align="center">Hola 👋, Soy Elvyn Edinson Paucar Ponce</h1>
-<h3 align="center">Estudiante de Cibertec🌟.</h3>
+<h1 align="center">¡Hola! 👋 Soy Elvyn Edinson Paucar Ponce</h1>
+<h3 align="center">💻 Estudiante de Computación e Informática en Cibertec</h3>
+<p align="center">Apasionado por el desarrollo backend, la tecnología y el aprendizaje constante.</p>
+
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 Actualmente estoy aprendiendo desarrollo backend y otros lenguajes de programación
-
-- 📫 Para contactarme, pueden escribirme a elvyn.paucar.ponce@gmail.com**
-
-- ⚡ Dato curioso: El cerebro humano 🧠 es más activo mientras dormimos 😴 que cuando estamos despiertos.
-<br>
-
-<h3 align="left">Contactate conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/elvyn-paucar-ponce-71bbb9300/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="Elvyn Paucar Ponce" height="30" width="40" />
-</a>
-  <a href="https://www.facebook.com/profile.php?id=61574895728529" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Elvyn Paucar Ponce" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/elvynpp/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="elvynpp" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/elvyn_paucar_po1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="elvyn_paucar_po1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" alt="coding gif">
 </p>
 
-<br>
+---
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> </p>
+### 🌱 Actualmente aprendiendo:
+- Desarrollo Backend (Java, Spring Boot, Kotlin)
+- Fundamentos de desarrollo web (HTML, CSS, JavaScript)
+- Bases de datos con MySQL
+- Arquitectura MVC
+
+---
+
+### 📫 Contáctame:
+<p align="left">
+  <a href="https://www.linkedin.com/in/elvyn-paucar-ponce-71bbb9300/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61574895728529" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" />
+  </a>
+  <a href="https://www.instagram.com/elvynpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/elvyn_paucar_po1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" />
+  </a>
+  &nbsp;&nbsp;📧 elvyn.paucar.ponce@gmail.com
+</p>
+
+---
+
+### 🛠️ Lenguajes y Herramientas
+<p>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/></a>
+</p>
+
+---
+
+### ⚡ Dato curioso:
+> El cerebro humano 🧠 está más activo durante el sueño 😴 que cuando estamos despiertos.
